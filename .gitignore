@@ -1,0 +1,8 @@
+/node_modules/
+/public/
+/resources/sass/argon/
+/resources/js
+/storage/app/public/galeri/*
+/storage/app/public/konten/*
+/vendor/
+.htaccess
