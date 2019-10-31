@@ -4,5 +4,6 @@
 /resources/js
 /storage/app/public/galeri/*
 /storage/app/public/konten/*
+/public/storage
 /vendor/
 .htaccess

@@ -50,8 +50,8 @@ class UsersTableSeeder extends Seeder
         $this->generate_tipe_kasus();
 
         $seeders = [
-            new KontenSeeder(),
-            new GaleriSeeder(),
+//            new KontenSeeder(),
+//            new GaleriSeeder(),
             new kelompokSeed(),
             new AnggotaKelompokSeed(),
             new UserNotHaveKelompokSeed(),

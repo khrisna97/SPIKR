@@ -21,7 +21,6 @@
                 "shasum": ""
             },
             "require": {
-                "ext-json": "*",
                 "php": "^7.1"
             },
             "require-dev": {
@@ -6099,8 +6098,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^7.2",
-        "ext-http": "*"
+        "php": "^7.2"
     },
     "platform-dev": []
 }

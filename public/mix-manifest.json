@@ -1,8 +1,3 @@
 {
-    "/js/Admin.js": "/js/Admin.js",
-    "/js/Auth.js": "/js/Auth.js",
-    "/js/Konselor.js": "/js/Konselor.js",
-    "/js/Konselor1.js": "/js/Konselor1.js",
-    "/js/User.js": "/js/User.js",
-    "/js/User1.js": "/js/User1.js"
+    "/js/Auth.js": "/js/Auth.js"
 }

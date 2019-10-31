@@ -26,6 +26,7 @@ class Galeri extends Model
 
             $path = url($disk->url('galeri/'.$direktori[$index]));
             return $item->format($path);
+
         });
 
         return [
