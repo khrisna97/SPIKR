@@ -1,5 +1,9 @@
 /node_modules/
 /resources/sass/argon/
+<<<<<<< HEAD
+=======
+#/resources/js/*
+>>>>>>> master
 /storage/app/public/galeri/*
 /storage/app/public/konten/*
 /public/storage
